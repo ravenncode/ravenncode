@@ -2,7 +2,7 @@
 
 👨‍💻 Web Developer <br>
 💼 Open to Job Opportunities <br>
-🌎 <a href="https://nrjportfolio.000webhostapp.com/"> My Portfolio Website <br>
+🌎 <a href="https://nrjportfolio.vercel.app/"> My Portfolio Website <br>
 <br>
 
 ## 🪐 Socials:
